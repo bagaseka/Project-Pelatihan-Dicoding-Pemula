@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">Dicoding Pemula</string>
+    <string name="my_name">Bagas Eka Ristianto</string>
+    <string name="my_email">bagaseka4@gmail.com</string>
+    <string name="pre_order_now">Pre-Order Now</string>
+
+    <string-array name="game_name">
+        <item>Rune Factory 3 Special</item>
+        <item>SUPER BOMBERMAN R 2</item>
+        <item>Sea of Stars</item>
+        <item>MythForce</item>
+        <item>Mario vs. Donkey Kong\u2122</item>
+        <item>Princess Peach\u2122: Showtime\!</item>
+        <item>Super Mario Odyssey™</item>
+        <item>Donkey Kong Country™: Tropical Freeze</item>
+        <item>New Super Mario Bros.\u2122 U Deluxe</item>
+        <item>Fire Emblem\u2122 Engage</item>
+        <item>Kirby\’s Return to Dream Land\u2122 Deluxe</item>
+        <item>Splatoon\u2122 3</item>
+    </string-array>
+
+    <string-array name="game_price">
+        <item>$39.99</item>
+        <item>$49.99</item>
+        <item>$34.99</item>
+        <item>$29.99</item>
+        <item>$49.99</item>
+        <item>$59.99</item>
+        <item>$59.99</item>
+        <item>$59.99</item>
+        <item>$59.99</item>
+        <item>$59.99</item>
+        <item>$59.99</item>
+        <item>$59.99</item>
+    </string-array>
+
+    <string-array name="game_release">
+        <item>Sep, 05 2023</item>
+        <item>Sep, 13 2023</item>
+        <item>Sep, 29 2023</item>
+        <item>Sep, 12 2023</item>
+        <item>Feb, 02 2024</item>
+        <item>Marc, 22 2024</item>
+        <item>Oct, 27 2017</item>
+        <item>Mei, 04 2018</item>
+        <item>Jan, 11 2019</item>
+        <item>Jan, 20 2023</item>
+        <item>Feb, 24 2023</item>
+        <item>Sep, 09 2022</item>
+    </string-array>
+
+    <string-array name="game_img">
+        <item>@drawable/img_rune_factory</item>
+        <item>@drawable/img_super_bombermanr2</item>
+        <item>@drawable/img_sea_of_stars</item>
+        <item>@drawable/img_mythforce</item>
+        <item>@drawable/img_mario_vs_dk</item>
+        <item>@drawable/img_princess_peach</item>
+        <item>@drawable/img_super_mario_odyssey</item>
+        <item>@drawable/img_donkey_tropical</item>
+        <item>@drawable/img_mario_bross_deluxe</item>
+        <item>@drawable/img_fire_emblem_engage</item>
+        <item>@drawable/img_kirby_return</item>
+        <item>@drawable/img_splatoon3</item>
+    </string-array>
+
+    <string-array name="game_description">
+        <item>Settle down in an idyllic fantasy town as a young adventurer with a monstrous secret in Rune Factory 3, remastered for a new generation on Nintendo Switch \u2122. Features brand new to Rune Factory 3 Special include Newlywed Mode, standalone adventures unlocked after marriage to each of the game\'s 11 eligible bachelorettes and a Hell difficulty level to challenge even veteran players! Whether it\'s your first visit or you\'re returning after a long time away, experience the unforgettable story of Rune Factory 3 with improved graphics and redesigned 3D character models.</item>
+        <item>The latest title of the party battle games series SUPER BOMBERMAN R\! With new adventures and game modes, it has the largest content volume in the series\' history\! The game features not only offline battles that can be played with family and friends, but also online battles that connect players from all over the world, as well as a single player mode.</item>
+        <item>Sea of Stars tells the story of two Children of the Solstice who combine the powers of the sun and moon to perform Eclipse Magic, the only force capable of fighting off the monstrous creations of an evil alchemist known as The Fleshmancer.</item>
+        <item>Inspired by beloved Saturday morning cartoons, MythForce unites swords and sorcery with gripping 1st-person combat in a new roguelike adventure.</item>
+        <item>Run, jump, and backflip your way to rescuing the stolen Mini-Mario toys in this puzzling twist on Mario action. Obstacles like spikes, moving platforms, and falling bricks stand in your way—put your brain to work and figure out the best way to reach the Mini-Marios. The rivalry that originally heated up on the Game Boy\u2122 Advance system reignites on the Nintendo Switch\u2122 system with newly-added co-op play and updated visuals.</item>
+        <item>Princess Peach\’s trip to the Sparkle Theater goes off script when the wicked Grape and the Sour Bunch steal the show\! Partner with the theater\’s guardian, Stella, to call curtains on this tragedy by using a powerful ribbon and taking on several starring roles—each with their own look and abilities.</item>
+        <item>Explore incredible places far from the Mushroom Kingdom as you join Mario and his new ally Cappy on a massive, globe-trotting 3D adventure. Use amazing new abilities—like the power to capture and control objects, animals, and enemies—to collect Power Moons so you can power up the Odyssey airship and save Princess Peach from Bowser\’s wedding plans\!</item>
+        <item>Barrel-blast into a critically acclaimed Donkey Kong adventure as this beloved franchise makes its Nintendo Switch\u2122 debut with a banana-bunch of new features. Traverse islands packed with platforming perfection and nonstop action as the classic Kongs in the original game, or mix things up by playing the story as Funky Kong in new Funky Mode\!</item>
+        <item>Join Mario, Luigi, and pals for single-player or multiplayer fun anytime, anywhere\! Take on two family-friendly, side-scrolling adventures with up to three friends* as you try to save the Mushroom Kingdom. Includes the New Super Mario Bros. U and harder, faster New Super Luigi U games—both of which include Nabbit and Toadette as playable characters\!</item>
+        <item>In a war against the Fell Dragon, four kingdoms worked together with heroes from other worlds to seal away this great evil. One-thousand years later, this seal has weakened and the Fell Dragon is about to reawaken. As a Divine Dragon, use rich strategies and robust customization to meet your destiny—to collect 12 Emblem Rings and bring peace back to the Continent of Elyos.</item>
+        <item>The tough puff Kirby is back for a 1–4 player* platforming adventure across Planet Popstar. Help Magolor rebuild his ship with newly added Mecha and Sand Copy Abilities\! Float and fight along with friends on the same system as you control Kirby. Each other player can control a different Kirby or one of Kirby\’s iconic friends like King Dedede, Meta Knight, and Bandana Waddle Dee.</item>
+        <item>Enter 4-on-4* ink-slinging battles in this colorful action shooter packed with style and attitude. As a squid-like Inkling, quickly cover your surroundings (and opponents) in ink with wild weaponry and swim through your own color to sneak and splat. Dive into the fresh fun with family and friends and make waves as a team. Get splatted by an opponent? No sweat\! The goal in Turf War is to cover the most ground, so respawn and jump back into the inky action.</item>
+    </string-array>
+
+</resources>
